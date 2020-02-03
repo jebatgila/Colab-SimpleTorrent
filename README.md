@@ -13,5 +13,5 @@ Click the badge which says 'Open in Colab' and follow directions there.
 ### Frequently Asked Questions
 **How get more disk space** to download bigger torrents. To do that
 
-	> Go to Runtime -> Change Runtime and give GPU as the Hardware Accelerator.  
+> Go to Runtime -> Change Runtime and give GPU as the Hardware Accelerator.  
 You will get around 384GB to download any torrent you want.
